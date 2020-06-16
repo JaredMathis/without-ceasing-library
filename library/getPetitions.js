@@ -10,6 +10,9 @@ function getPetitions() {
             'Salvation',
             'Wisdom',
             'Repentance',
+            'Peace',
+            'Love',
+            'Healing',
         ]
     });
     return result;
